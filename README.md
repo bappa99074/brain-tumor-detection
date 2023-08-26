@@ -1,3 +1,3 @@
 # brain-tumor-detection
 data set - 
-/kaggle/input/brain-tumor-detection-mri
+https://www.kaggle.com/datasets/abhranta/brain-tumor-detection-mri/versions/1
